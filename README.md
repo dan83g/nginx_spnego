@@ -1,2 +1,5 @@
 # nginx_spnego
-Dockerfile for nginx spnego image
+Dockerfile for nginx
+SPNEGO
+JS module
+WEBDAV module
